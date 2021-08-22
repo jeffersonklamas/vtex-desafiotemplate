@@ -1,0 +1,17 @@
+.imageElement {
+    width: 50%;
+    width: auto;
+    height: auto;
+    object-fit: cover;
+    object-position: bottom;
+    cursor: pointer;
+    display: block;
+    overflow: hidden;
+    position: relative;
+    border-radius: 50px;
+    margin: 80px;
+}
+
+.sliderLayoutContainer--carousel {
+    background-color: #303030;
+}
