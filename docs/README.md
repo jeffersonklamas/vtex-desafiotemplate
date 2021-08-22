@@ -2,8 +2,6 @@
 
 O desafio principal é compreender a lógica do desenvolvimento da estrutura da VTEX, bem como sua documentação.
 
-Não consegui
-
 ### briefing para desenvolvimento:
 
 Template de criação
