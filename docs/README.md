@@ -2,6 +2,10 @@
 
 O desafio principal é compreender a lógica do desenvolvimento da estrutura da VTEX, bem como sua documentação.
 
+Achei divertido particpar deste aprendizado, não consegui completar o desafio como um todo.
+
+Consegui o básico do básico.
+
 ### briefing para desenvolvimento:
 
 Template de criação
